@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=DESKTOP-HJB5TPB;Database=shopdb;Trusted_Connection=False;user id=magdy;password=5020786" Microsoft.EntityFrameworkCore.SqlServer -o shopdb -f 
